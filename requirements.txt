@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-selenium
-webdriver-manager
-requests
+playwright
+redis
 pydantic
+httpx
